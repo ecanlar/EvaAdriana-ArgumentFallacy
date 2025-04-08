@@ -7,6 +7,7 @@ TEXT-ONLY
 ------------
 
 1) CLASSIFICATION
+   
 	[Adriana]
 	- BERT
 	- RoBERTa
@@ -20,7 +21,8 @@ TEXT-ONLY
 		▶ Label:
 
 
-2) DETECTION (sin y con DA: UKDebates + MMUSED?)
+3) DETECTION (sin y con DA: UKDebates + MMUSED?)
+   
 	[Eva]
 	- BERT
 	- RoBERTa
