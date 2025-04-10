@@ -21,7 +21,7 @@ TEXT-ONLY
 		▶ Label:
 
 
-3) DETECTION (sin y con DA: UKDebates + MMUSED?)
+3) DETECTION (sin DA)
    
 	[Eva]
 	- BERT
