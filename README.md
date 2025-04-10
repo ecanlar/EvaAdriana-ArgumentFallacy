@@ -16,7 +16,7 @@ TEXT-ONLY
 	- SBERT
 	- ALBERT
 	- DeepSeek-R1:
-		PROMPT. You task is to detect the type of fallacy in the Text Snippet. The label can be [ESPECIFICAR AQUÍ LAS ETIQUETAS]
+		PROMPT. You task is to detect if there is fallacy in the Text Snippet. The label can be [ESPECIFICAR AQUÍ LAS ETIQUETAS]
 		▶ Text Snippet: [SAMPLE]
 		▶ Label:
 
