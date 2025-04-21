@@ -15,7 +15,7 @@ TEXT-ONLY
 	[Eva]
 	- SBERT
 	- ALBERT
-	- DeepSeek-R1:
+	- deepseek-ai/DeepSeek-R1-Distill-Llama-8B:
 		PROMPT. You task is to detect if there is fallacy in the Text Snippet. The label can be [ESPECIFICAR AQUÍ LAS ETIQUETAS]
 		▶ Text Snippet: [SAMPLE]
 		▶ Label:
@@ -30,7 +30,7 @@ TEXT-ONLY
 	[Adriana]
 	- SBERT
 	- ALBERT
-	- DeepSeek-R1:
+	- deepseek-ai/DeepSeek-R1-Distill-Llama-8B:
 		PROMPT. You task is to detect the type of fallacy in the Text Snippet. The label can be [ESPECIFICAR AQUÍ LAS ETIQUETAS]
 		▶ Text Snippet: [SAMPLE]
 		▶ Label:
