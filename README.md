@@ -18,20 +18,3 @@ AFD - Detection
 **Multimodal**
 - RoBERTa + Wav2Vec2
   
-
-------------
-AFC - Classification
-------------
-**Text-only**:
-- BERT
-- RoBERTa
-- SBERT
-- ALBERT
-- DeepSeek-R1
-
-**Audio-only**
-- BiLSTM
-- TransformerEncoder
-
-**Multimodal**
-- ---
